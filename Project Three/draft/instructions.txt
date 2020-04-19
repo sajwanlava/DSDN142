@@ -1,0 +1,1 @@
+Hover over square to change colours. If the big square is clicked, the colour is fixed. Click enter to divide the square into four. Click shift to divide into sixteen squares. Press on an individual square to for the colours to loop. 
